@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|c:\\users\\eng.sara\\source\\repos\\travelbookingmodels\\travelbookingmodels\\viewmodels\\agencydashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|solutionrelative:travelbookingmodels\\viewmodels\\agencydashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|c:\\users\\eng.sara\\source\\repos\\travelbookingmodels\\travelbookingmodels\\models\\travelpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|solutionrelative:travelbookingmodels\\models\\travelpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|c:\\users\\eng.sara\\source\\repos\\travelbookingmodels\\travelbookingmodels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|solutionrelative:travelbookingmodels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|c:\\users\\eng.sara\\source\\repos\\travelbookingmodels\\travelbookingmodels\\models\\agency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|solutionrelative:travelbookingmodels\\models\\agency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|c:\\users\\eng.sara\\source\\repos\\travelbookingmodels\\travelbookingmodels\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|solutionrelative:travelbookingmodels\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|c:\\users\\eng.sara\\source\\repos\\travelbookingmodels\\travelbookingmodels\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|solutionrelative:travelbookingmodels\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|c:\\users\\eng.sara\\source\\repos\\travelbookingmodels\\travelbookingmodels\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D65A5A-A080-48CC-9C35-17511353B333}|TravelBookingModels\\TravelBookingModels.csproj|solutionrelative:travelbookingmodels\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgencyDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\ViewModels\\AgencyDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "TravelBookingModels\\ViewModels\\AgencyDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\ViewModels\\AgencyDashboardViewModel.cs",
+              "RelativeToolTip": "TravelBookingModels\\ViewModels\\AgencyDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:37:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "TravelBookingModels\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeToolTip": "TravelBookingModels\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:34:24.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TravelBookingModels\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\Booking.cs",
+              "RelativeToolTip": "TravelBookingModels\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:27:35.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelPackage.cs",
+              "DocumentMoniker": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\TravelPackage.cs",
+              "RelativeDocumentMoniker": "TravelBookingModels\\Models\\TravelPackage.cs",
+              "ToolTip": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\TravelPackage.cs",
+              "RelativeToolTip": "TravelBookingModels\\Models\\TravelPackage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:23:11.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agency.cs",
+              "DocumentMoniker": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\Agency.cs",
+              "RelativeDocumentMoniker": "TravelBookingModels\\Models\\Agency.cs",
+              "ToolTip": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\Agency.cs",
+              "RelativeToolTip": "TravelBookingModels\\Models\\Agency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:21:37.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TravelBookingModels\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\Customer.cs",
+              "RelativeToolTip": "TravelBookingModels\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:19:57.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TravelBookingModels\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Eng.Sara\\source\\repos\\TravelBookingModels\\TravelBookingModels\\Models\\User.cs",
+              "RelativeToolTip": "TravelBookingModels\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:02:52.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
